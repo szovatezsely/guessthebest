@@ -1,0 +1,3530 @@
+[
+  {
+    "category": "Magyar történelem",
+    "difficulty": "könnyű",
+    "text": "Ki volt az első magyar király?",
+    "answers": [
+      "I. (Szent) István",
+      "IV. Béla",
+      "Szent László",
+      "Könyves Kálmán"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Hagyományosan melyik évhez kötjük Szent István megkoronázását?",
+    "answers": [
+      "1456",
+      "1241",
+      "1000",
+      "896"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "könnyű",
+    "text": "Ki vezette a magyar törzseket a honfoglalás idején?",
+    "answers": [
+      "Álmos",
+      "Árpád",
+      "Géza",
+      "Koppány"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "könnyű",
+    "text": "Melyik évhez kötjük a honfoglalást?",
+    "answers": [
+      "896",
+      "1526",
+      "1000",
+      "1241"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Ki volt Szent István apja?",
+    "answers": [
+      "Árpád",
+      "Taksony",
+      "Koppány",
+      "Géza fejedelem"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Melyik csatában szenvedett vereséget a magyar sereg 1526-ban?",
+    "answers": [
+      "muhi csata",
+      "nándorfehérvári csata",
+      "mohácsi csata",
+      "pákozdi csata"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "nehéz",
+    "text": "Melyik magyar király esett el a mohácsi csatában?",
+    "answers": [
+      "II. András",
+      "IV. Béla",
+      "II. Lajos",
+      "I. Mátyás"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "nehéz",
+    "text": "Melyik évben foglalták el a törökök Budát?",
+    "answers": [
+      "1456",
+      "1526",
+      "1686",
+      "1541"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Hány részre szakadt az ország a mohácsi vész után?",
+    "answers": [
+      "három",
+      "négy",
+      "kettő",
+      "öt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "könnyű",
+    "text": "Melyik magyar királyt nevezték „az igazságosnak”?",
+    "answers": [
+      "Zsigmond",
+      "Szent László",
+      "Mátyás",
+      "Könyves Kálmán"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Kinek a fia volt Mátyás király?",
+    "answers": [
+      "Hunyadi János",
+      "Károly Róbert",
+      "Hunyadi László",
+      "II. András"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "nehéz",
+    "text": "Mi volt Mátyás király híres könyvtárának neve?",
+    "answers": [
+      "Bibliotheca",
+      "Corvina",
+      "Akadémia",
+      "Vivarium"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Ki aratott győzelmet a törökök felett a nándorfehérvári diadalban (1456)?",
+    "answers": [
+      "Hunyadi János",
+      "Mátyás király",
+      "Dobó István",
+      "Zrínyi Miklós"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "nehéz",
+    "text": "Melyik 1456-os győzelem emlékét őrzi a déli harangszó?",
+    "answers": [
+      "egri vár ostroma",
+      "muhi csata",
+      "nándorfehérvári diadal",
+      "mohácsi csata"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Ki vezette az 1703–1711-es Habsburg-ellenes szabadságharcot?",
+    "answers": [
+      "Thököly Imre",
+      "II. Rákóczi Ferenc",
+      "Bocskai István",
+      "Kossuth Lajos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "könnyű",
+    "text": "Melyik évben tört ki a magyar forradalom és szabadságharc a Habsburgok ellen, amelyhez március 15. kötődik?",
+    "answers": [
+      "1848",
+      "1789",
+      "1914",
+      "1956"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Hány vértanút végeztek ki Aradon 1849. október 6-án?",
+    "answers": [
+      "13",
+      "6",
+      "15",
+      "9"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "könnyű",
+    "text": "Ki írta a Nemzeti dalt, és volt az 1848-as forradalom egyik vezéralakja?",
+    "answers": [
+      "Petőfi Sándor",
+      "Vörösmarty Mihály",
+      "Arany János",
+      "Kossuth Lajos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "nehéz",
+    "text": "Ki volt az 1848-as első felelős magyar kormány miniszterelnöke?",
+    "answers": [
+      "Batthyány Lajos",
+      "Széchenyi István",
+      "Kossuth Lajos",
+      "Deák Ferenc"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Melyik kiegyezés hozta létre az Osztrák–Magyar Monarchiát?",
+    "answers": [
+      "1920-as szerződés",
+      "1848-as törvények",
+      "1867-es kiegyezés",
+      "1849-es megállapodás"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Ki volt az Osztrák–Magyar Monarchia uralkodója a kiegyezéskor?",
+    "answers": [
+      "Mária Terézia",
+      "IV. Károly",
+      "Ferenc József",
+      "II. József"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Melyik békeszerződés csökkentette drasztikusan Magyarország területét 1920-ban?",
+    "answers": [
+      "trianoni",
+      "versailles-i",
+      "párizsi",
+      "schengeni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Ki volt Magyarország kormányzója a két világháború között?",
+    "answers": [
+      "Tisza István",
+      "Kádár János",
+      "Horthy Miklós",
+      "Rákosi Mátyás"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "könnyű",
+    "text": "Melyik évben tört ki a forradalom a kommunista diktatúra ellen Magyarországon?",
+    "answers": [
+      "1968",
+      "1989",
+      "1956",
+      "1848"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Melyik nemzeti ünnep emlékezik az 1956-os forradalomra?",
+    "answers": [
+      "március 15.",
+      "augusztus 20.",
+      "május 1.",
+      "október 23."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Ki volt az 1956-os forradalom mártírhalált halt miniszterelnöke?",
+    "answers": [
+      "Nagy Imre",
+      "Kádár János",
+      "Antall József",
+      "Rákosi Mátyás"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Melyik évhez kötjük a magyarországi rendszerváltást?",
+    "answers": [
+      "1968",
+      "2004",
+      "1956",
+      "1989"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Melyik évben lett Magyarország az Európai Unió tagja?",
+    "answers": [
+      "1999",
+      "1989",
+      "2004",
+      "2010"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "nehéz",
+    "text": "Melyik évben csatlakozott Magyarország a NATO-hoz?",
+    "answers": [
+      "2008",
+      "2004",
+      "1999",
+      "1991"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Ki volt a vezető kommunista pártfőtitkár az 1950-es évek elején Magyarországon?",
+    "answers": [
+      "Rákosi Mátyás",
+      "Kádár János",
+      "Nagy Imre",
+      "Horthy Miklós"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "könnyű",
+    "text": "Melyik királyi ház adta az első magyar királyokat?",
+    "answers": [
+      "Habsburg-ház",
+      "Jagelló-ház",
+      "Anjou-ház",
+      "Árpád-ház"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "nehéz",
+    "text": "Ki volt az utolsó Árpád-házi király?",
+    "answers": [
+      "II. András",
+      "V. István",
+      "III. András",
+      "IV. Béla"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "nehéz",
+    "text": "Melyik magyar király adta ki az Aranybullát 1222-ben?",
+    "answers": [
+      "I. Mátyás",
+      "II. András",
+      "I. István",
+      "IV. Béla"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Mi pusztított Magyarországon 1241–42-ben?",
+    "answers": [
+      "pestisjárvány",
+      "kuruc háború",
+      "tatárjárás",
+      "törökdúlás"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "nehéz",
+    "text": "Melyik magyar királyt nevezzük „második honalapítónak”?",
+    "answers": [
+      "IV. Béla",
+      "Mátyás",
+      "I. István",
+      "Szent László"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Melyik évben egyesült Buda, Pest és Óbuda Budapesté?",
+    "answers": [
+      "1900",
+      "1873",
+      "1848",
+      "1920"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Ki volt Magyarország első köztársasági elnöke a rendszerváltás után?",
+    "answers": [
+      "Göncz Árpád",
+      "Sólyom László",
+      "Mádl Ferenc",
+      "Antall József"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "nehéz",
+    "text": "Ki védte Eger várát 1552-ben a török ostrom idején?",
+    "answers": [
+      "Zrínyi Miklós",
+      "Hunyadi János",
+      "Dobó István",
+      "Bocskai István"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "nehéz",
+    "text": "Ki volt a szigetvári hős, aki 1566-ban a vár védelmében esett el?",
+    "answers": [
+      "Dobó István",
+      "Bethlen Gábor",
+      "Zrínyi Miklós",
+      "Thököly Imre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Kit neveztek „a legnagyobb magyarnak”, a reformkor vezéralakját?",
+    "answers": [
+      "Petőfi Sándor",
+      "Deák Ferenc",
+      "Kossuth Lajos",
+      "Széchenyi István"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Kinek a nevéhez fűződik a Lánchíd megépítésének kezdeményezése?",
+    "answers": [
+      "Deák Ferenc",
+      "Andrássy Gyula",
+      "Kossuth Lajos",
+      "Széchenyi István"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "könnyű",
+    "text": "Mi Magyarország fővárosa?",
+    "answers": [
+      "Budapest",
+      "Szeged",
+      "Debrecen",
+      "Pécs"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "könnyű",
+    "text": "Melyik folyó szeli ketté Budapestet?",
+    "answers": [
+      "Tisza",
+      "Dráva",
+      "Rába",
+      "Duna"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "könnyű",
+    "text": "Melyik a legnagyobb tó Magyarországon?",
+    "answers": [
+      "Balaton",
+      "Tisza-tó",
+      "Velencei-tó",
+      "Fertő tó"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "könnyű",
+    "text": "Mi a Balaton közismert beceneve?",
+    "answers": [
+      "a magyar tenger",
+      "a kék szem",
+      "a nagy tó",
+      "a déli víz"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Mi Magyarország legmagasabb pontja?",
+    "answers": [
+      "Dobogó-kő",
+      "Zengő",
+      "Írott-kő",
+      "Kékes"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Melyik hegységben található a Kékes?",
+    "answers": [
+      "Bükk",
+      "Zemplén",
+      "Mátra",
+      "Mecsek"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Hány megyéből áll Magyarország?",
+    "answers": [
+      "20",
+      "19",
+      "18",
+      "23"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Melyik a második legnépesebb város Magyarországon?",
+    "answers": [
+      "Debrecen",
+      "Szeged",
+      "Pécs",
+      "Miskolc"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "könnyű",
+    "text": "A Duna mellett melyik a másik nagy magyar folyó?",
+    "answers": [
+      "Rába",
+      "Zala",
+      "Tisza",
+      "Dráva"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Melyik várost nevezik „a napfény városának”?",
+    "answers": [
+      "Győr",
+      "Pécs",
+      "Szeged",
+      "Debrecen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "nehéz",
+    "text": "Melyik volt Magyarország első nemzeti parkja (1973)?",
+    "answers": [
+      "Kiskunsági Nemzeti Park",
+      "Hortobágyi Nemzeti Park",
+      "Aggteleki Nemzeti Park",
+      "Bükki Nemzeti Park"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Melyik nagy alföldi tájegység Magyarország legnagyobb síksága?",
+    "answers": [
+      "Dunántúl",
+      "Kisalföld",
+      "Mátraalja",
+      "Alföld"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Hogyan nevezzük Magyarország Dunától nyugatra eső nagy táját?",
+    "answers": [
+      "Felföld",
+      "Tiszántúl",
+      "Dunántúl",
+      "Alföld"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Melyik dél-dunántúli város híres a Zsolnay-porcelánról?",
+    "answers": [
+      "Pécs",
+      "Győr",
+      "Veszprém",
+      "Szeged"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "nehéz",
+    "text": "Melyik településről kapta a nevét a világhírű herendi porcelán?",
+    "answers": [
+      "Hollóháza",
+      "Kalocsa",
+      "Herend",
+      "Mezőtúr"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "nehéz",
+    "text": "Hol található a híres bencés főapátság, amely világörökségi helyszín?",
+    "answers": [
+      "Zirc",
+      "Pannonhalma",
+      "Tihany",
+      "Esztergom"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Melyik folyó a leghosszabb a hazai szakaszát tekintve Magyarországon?",
+    "answers": [
+      "Dráva",
+      "Duna",
+      "Maros",
+      "Tisza"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Hány országgal határos Magyarország?",
+    "answers": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Az alábbiak közül melyik ország NEM határos Magyarországgal?",
+    "answers": [
+      "Szlovákia",
+      "Lengyelország",
+      "Szerbia",
+      "Ausztria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "nehéz",
+    "text": "Melyik város Vas megye székhelye, egyben a római kori Savaria?",
+    "answers": [
+      "Kaposvár",
+      "Veszprém",
+      "Zalaegerszeg",
+      "Szombathely"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Melyik településen található Európa egyik legnagyobb termáltava?",
+    "answers": [
+      "Hajdúszoboszló",
+      "Bük",
+      "Hévíz",
+      "Harkány"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "könnyű",
+    "text": "Milyen tájegység a Hortobágy?",
+    "answers": [
+      "puszta",
+      "hegyvidék",
+      "erdőség",
+      "tóvidék"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "könnyű",
+    "text": "Mi Budapest legrégebbi állandó hídjának neve?",
+    "answers": [
+      "Erzsébet híd",
+      "Lánchíd",
+      "Margit híd",
+      "Szabadság híd"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Melyik borvidék híres a tokaji aszúról?",
+    "answers": [
+      "Badacsony",
+      "Eger",
+      "Tokaj-Hegyalja",
+      "Villány"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Melyik megye székhelye Miskolc?",
+    "answers": [
+      "Nógrád",
+      "Heves",
+      "Borsod-Abaúj-Zemplén",
+      "Szabolcs-Szatmár-Bereg"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Melyik megye székhelye Győr?",
+    "answers": [
+      "Veszprém",
+      "Komárom-Esztergom",
+      "Győr-Moson-Sopron",
+      "Vas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "nehéz",
+    "text": "Melyik várost nevezik a „kálvinista Rómának”?",
+    "answers": [
+      "Sárospatak",
+      "Debrecen",
+      "Pápa",
+      "Kecskemét"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "nehéz",
+    "text": "Mekkora Magyarország területe nagyságrendileg?",
+    "answers": [
+      "50 000 km²",
+      "93 000 km²",
+      "150 000 km²",
+      "200 000 km²"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "közepes",
+    "text": "Melyik a világ legnagyobb területű országa?",
+    "answers": [
+      "Egyesült Államok",
+      "Kína",
+      "Kanada",
+      "Oroszország"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "közepes",
+    "text": "Melyik a világ legnépesebb országa?",
+    "answers": [
+      "India",
+      "Egyesült Államok",
+      "Kína",
+      "Indonézia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "könnyű",
+    "text": "Melyik kontinensen található a Szahara sivatag?",
+    "answers": [
+      "Ausztrália",
+      "Ázsia",
+      "Afrika",
+      "Dél-Amerika"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "könnyű",
+    "text": "Mi Franciaország fővárosa?",
+    "answers": [
+      "Nizza",
+      "Párizs",
+      "Lyon",
+      "Marseille"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "könnyű",
+    "text": "Mi Olaszország fővárosa?",
+    "answers": [
+      "Nápoly",
+      "Róma",
+      "Velence",
+      "Milánó"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "könnyű",
+    "text": "Mi Németország fővárosa?",
+    "answers": [
+      "Berlin",
+      "Frankfurt",
+      "München",
+      "Hamburg"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "könnyű",
+    "text": "Mi az Egyesült Királyság fővárosa?",
+    "answers": [
+      "Manchester",
+      "Liverpool",
+      "Edinburgh",
+      "London"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "könnyű",
+    "text": "Mi Ausztria fővárosa?",
+    "answers": [
+      "Graz",
+      "Salzburg",
+      "Bécs",
+      "Linz"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "közepes",
+    "text": "Mi Szlovákia fővárosa?",
+    "answers": [
+      "Nyitra",
+      "Kassa",
+      "Eperjes",
+      "Pozsony"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "közepes",
+    "text": "Mi Lengyelország fővárosa?",
+    "answers": [
+      "Varsó",
+      "Wroclaw",
+      "Gdansk",
+      "Krakkó"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "közepes",
+    "text": "Mi Portugália fővárosa?",
+    "answers": [
+      "Lisszabon",
+      "Sevilla",
+      "Porto",
+      "Madrid"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "könnyű",
+    "text": "Melyik a legmagasabb hegy a Földön?",
+    "answers": [
+      "Mount Everest",
+      "K2",
+      "Mont Blanc",
+      "Kilimandzsáró"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "közepes",
+    "text": "Melyik az Alpok legmagasabb csúcsa?",
+    "answers": [
+      "Großglockner",
+      "Matterhorn",
+      "Mount Everest",
+      "Mont Blanc"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "könnyű",
+    "text": "Melyik a Föld legnagyobb óceánja?",
+    "answers": [
+      "Atlanti-óceán",
+      "Csendes-óceán",
+      "Indiai-óceán",
+      "Jeges-tenger"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "nehéz",
+    "text": "Melyik a leghosszabb folyó Európában?",
+    "answers": [
+      "Rajna",
+      "Volga",
+      "Duna",
+      "Dnyeper"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "könnyű",
+    "text": "Melyik a legnagyobb kontinens?",
+    "answers": [
+      "Észak-Amerika",
+      "Afrika",
+      "Ázsia",
+      "Európa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "könnyű",
+    "text": "Melyik országban találhatók a gízai piramisok?",
+    "answers": [
+      "Mexikó",
+      "Görögország",
+      "Egyiptom",
+      "Irak"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "közepes",
+    "text": "Mi az Amerikai Egyesült Államok fővárosa?",
+    "answers": [
+      "New York",
+      "Washington",
+      "Chicago",
+      "Los Angeles"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "könnyű",
+    "text": "Mi Japán fővárosa?",
+    "answers": [
+      "Oszaka",
+      "Tokió",
+      "Kiotó",
+      "Nagoja"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "könnyű",
+    "text": "Mi Kína fővárosa?",
+    "answers": [
+      "Hongkong",
+      "Peking",
+      "Sanghaj",
+      "Kanton"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "könnyű",
+    "text": "Ki írta a Himnusz című verset?",
+    "answers": [
+      "Vörösmarty Mihály",
+      "Kölcsey Ferenc",
+      "Petőfi Sándor",
+      "Arany János"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "közepes",
+    "text": "Ki írta a Szózat című verset?",
+    "answers": [
+      "Kölcsey Ferenc",
+      "Arany János",
+      "Petőfi Sándor",
+      "Vörösmarty Mihály"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "közepes",
+    "text": "Ki írta a János vitéz című elbeszélő költeményt?",
+    "answers": [
+      "Jókai Mór",
+      "Vörösmarty Mihály",
+      "Petőfi Sándor",
+      "Arany János"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "közepes",
+    "text": "Ki írta a Toldi című elbeszélő költeményt?",
+    "answers": [
+      "Petőfi Sándor",
+      "Arany János",
+      "Vörösmarty Mihály",
+      "Ady Endre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "közepes",
+    "text": "Ki írta Az ember tragédiája című drámai költeményt?",
+    "answers": [
+      "Madách Imre",
+      "Katona József",
+      "Vörösmarty Mihály",
+      "Arany János"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "könnyű",
+    "text": "Ki írta az Egri csillagok című regényt?",
+    "answers": [
+      "Móricz Zsigmond",
+      "Gárdonyi Géza",
+      "Jókai Mór",
+      "Mikszáth Kálmán"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "könnyű",
+    "text": "Ki írta A Pál utcai fiúk című regényt?",
+    "answers": [
+      "Molnár Ferenc",
+      "Karinthy Frigyes",
+      "Móricz Zsigmond",
+      "Gárdonyi Géza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "közepes",
+    "text": "Ki A Pál utcai fiúk kis hőse, aki a Vörösingesek ellen küzd?",
+    "answers": [
+      "Boka János",
+      "Áts Feri",
+      "Geréb Dezső",
+      "Nemecsek Ernő"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "közepes",
+    "text": "Ki írta a Légy jó mindhalálig című regényt?",
+    "answers": [
+      "Kosztolányi Dezső",
+      "Gárdonyi Géza",
+      "Móricz Zsigmond",
+      "Mikszáth Kálmán"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "közepes",
+    "text": "Ki írta A kőszívű ember fiai című regényt?",
+    "answers": [
+      "Móricz Zsigmond",
+      "Gárdonyi Géza",
+      "Mikszáth Kálmán",
+      "Jókai Mór"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "közepes",
+    "text": "Ki a Nyugat folyóirat egyik legnagyobb költője, az „Új versek” szerzője?",
+    "answers": [
+      "Babits Mihály",
+      "Ady Endre",
+      "Kosztolányi Dezső",
+      "József Attila"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "nehéz",
+    "text": "Ki írta a „Nem tudhatom...” kezdetű verset?",
+    "answers": [
+      "Babits Mihály",
+      "Radnóti Miklós",
+      "József Attila",
+      "Ady Endre"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "közepes",
+    "text": "Melyik költő írta a „Mama” és a „Tiszta szívvel” című verseket?",
+    "answers": [
+      "Radnóti Miklós",
+      "Ady Endre",
+      "Kosztolányi Dezső",
+      "József Attila"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "közepes",
+    "text": "Ki az első magyar irodalmi Nobel-díjas (2002)?",
+    "answers": [
+      "Esterházy Péter",
+      "Márai Sándor",
+      "Kertész Imre",
+      "Nádas Péter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "nehéz",
+    "text": "Melyik regényéért kapott Kertész Imre Nobel-díjat?",
+    "answers": [
+      "A kudarc",
+      "Felszámolás",
+      "Kaddis a meg nem született gyermekért",
+      "Sorstalanság"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "nehéz",
+    "text": "Ki írta az Édes Anna című regényt?",
+    "answers": [
+      "Krúdy Gyula",
+      "Móricz Zsigmond",
+      "Babits Mihály",
+      "Kosztolányi Dezső"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "nehéz",
+    "text": "Ki írta a Csongor és Tünde című drámai költeményt?",
+    "answers": [
+      "Vörösmarty Mihály",
+      "Katona József",
+      "Madách Imre",
+      "Petőfi Sándor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "közepes",
+    "text": "Kit neveztek „a nagy mesemondónak”, a magyar népmesék gyűjtőjét?",
+    "answers": [
+      "Gárdonyi Géza",
+      "Móra Ferenc",
+      "Fekete István",
+      "Benedek Elek"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "könnyű",
+    "text": "Ki írta az „Anyám tyúkja” című verset?",
+    "answers": [
+      "Weöres Sándor",
+      "Petőfi Sándor",
+      "Arany János",
+      "József Attila"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "közepes",
+    "text": "Ki írta a Tüskevár és a Vuk című ifjúsági regényeket?",
+    "answers": [
+      "Molnár Ferenc",
+      "Móra Ferenc",
+      "Fekete István",
+      "Gárdonyi Géza"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "nehéz",
+    "text": "Ki írta a Bánk bán című drámát?",
+    "answers": [
+      "Madách Imre",
+      "Kölcsey Ferenc",
+      "Vörösmarty Mihály",
+      "Katona József"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "nehéz",
+    "text": "Ki írta az „Egy mondat a zsarnokságról” című verset?",
+    "answers": [
+      "Nagy László",
+      "József Attila",
+      "Illyés Gyula",
+      "Radnóti Miklós"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "közepes",
+    "text": "Ki komponálta a magyar Himnusz zenéjét?",
+    "answers": [
+      "Bartók Béla",
+      "Kodály Zoltán",
+      "Erkel Ferenc",
+      "Liszt Ferenc"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "nehéz",
+    "text": "Ki a Bánk bán című opera zeneszerzője?",
+    "answers": [
+      "Kodály Zoltán",
+      "Liszt Ferenc",
+      "Dohnányi Ernő",
+      "Erkel Ferenc"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "közepes",
+    "text": "Melyik két világhírű magyar zeneszerző gyűjtötte a magyar népdalokat?",
+    "answers": [
+      "Liszt Ferenc és Erkel Ferenc",
+      "Bartók Béla és Kodály Zoltán",
+      "Dohnányi Ernő és Lehár Ferenc",
+      "Kálmán Imre és Bartók Béla"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "nehéz",
+    "text": "Kihez fűződik a Háry János című daljáték?",
+    "answers": [
+      "Liszt Ferenc",
+      "Erkel Ferenc",
+      "Bartók Béla",
+      "Kodály Zoltán"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "könnyű",
+    "text": "Ki a világhírű magyar zongoraművész és zeneszerző, a Magyar rapszódiák szerzője?",
+    "answers": [
+      "Erkel Ferenc",
+      "Bartók Béla",
+      "Liszt Ferenc",
+      "Kodály Zoltán"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "nehéz",
+    "text": "Ki írta A kékszakállú herceg vára című operát?",
+    "answers": [
+      "Erkel Ferenc",
+      "Kodály Zoltán",
+      "Liszt Ferenc",
+      "Bartók Béla"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "közepes",
+    "text": "Ki a 19. századi világhírű magyar festő, a Krisztus Pilátus előtt alkotója?",
+    "answers": [
+      "Szinyei Merse Pál",
+      "Rippl-Rónai József",
+      "Csontváry Kosztka Tivadar",
+      "Munkácsy Mihály"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "nehéz",
+    "text": "Ki tervezte a budapesti Országház épületét?",
+    "answers": [
+      "Lechner Ödön",
+      "Hauszmann Alajos",
+      "Ybl Miklós",
+      "Steindl Imre"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "nehéz",
+    "text": "Milyen építészeti stílusban épült a magyar Országház?",
+    "answers": [
+      "neogótikus",
+      "klasszicista",
+      "szecessziós",
+      "barokk"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "közepes",
+    "text": "Melyik magyar film nyerte el a legjobb idegen nyelvű filmnek járó Oscar-díjat 2016-ban?",
+    "answers": [
+      "A torinói ló",
+      "Saul fia",
+      "Mephisto",
+      "Testről és lélekről"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "nehéz",
+    "text": "Ki rendezte a Saul fia című filmet?",
+    "answers": [
+      "Enyedi Ildikó",
+      "Nemes Jeles László",
+      "Jancsó Miklós",
+      "Szabó István"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "nehéz",
+    "text": "Ki rendezte a Mephisto című Oscar-díjas filmet?",
+    "answers": [
+      "Fábri Zoltán",
+      "Makk Károly",
+      "Jancsó Miklós",
+      "Szabó István"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "közepes",
+    "text": "Melyik a legismertebb magyar páros néptánc?",
+    "answers": [
+      "polka",
+      "verbunk",
+      "keringő",
+      "csárdás"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "közepes",
+    "text": "Melyik a magyar népzene jellegzetes vert húros hangszere?",
+    "answers": [
+      "cimbalom",
+      "citera",
+      "hárfa",
+      "tárogató"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "könnyű",
+    "text": "Mi a magyar konyha egyik legjellegzetesebb fűszere?",
+    "answers": [
+      "sáfrány",
+      "kakukkfű",
+      "fűszerpaprika",
+      "szerecsendió"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "könnyű",
+    "text": "Melyik a legismertebb magyar nemzeti étel, egy bográcsban készülő paprikás leves?",
+    "answers": [
+      "halászlé",
+      "lecsó",
+      "gulyás",
+      "pörkölt"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "nehéz",
+    "text": "Melyik városhoz kötődik a híres matyó hímzés?",
+    "answers": [
+      "Sárköz",
+      "Mezőkövesd",
+      "Hódmezővásárhely",
+      "Kalocsa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "közepes",
+    "text": "Mi Magyarország hivatalos pénzneme?",
+    "answers": [
+      "pengő",
+      "forint",
+      "euró",
+      "korona"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "könnyű",
+    "text": "Mi a magyar zászló színeinek sorrendje felülről lefelé?",
+    "answers": [
+      "piros-fehér-zöld",
+      "zöld-fehér-piros",
+      "piros-zöld-fehér",
+      "fehér-piros-zöld"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "közepes",
+    "text": "Mi látható a magyar címer tetején?",
+    "answers": [
+      "egy kettős kereszt",
+      "egy sas",
+      "a Szent Korona",
+      "egy csillag"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "közepes",
+    "text": "Melyik nyelvcsaládba tartozik a magyar nyelv?",
+    "answers": [
+      "germán",
+      "finnugor",
+      "szláv",
+      "újlatin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Melyik magyar tudós fedezte fel a C-vitamint?",
+    "answers": [
+      "Teller Ede",
+      "Szent-Györgyi Albert",
+      "Bay Zoltán",
+      "Neumann János"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Melyik magyar feltaláló nevéhez fűződik a golyóstoll?",
+    "answers": [
+      "Kandó Kálmán",
+      "Bíró László József",
+      "Irinyi János",
+      "Jedlik Ányos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "könnyű",
+    "text": "Ki találta fel a Rubik-kockát?",
+    "answers": [
+      "Rubik Ernő",
+      "Galamb József",
+      "Csonka János",
+      "Bíró László József"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "nehéz",
+    "text": "Melyik magyar feltaláló alkotta meg a zajtalan gyufát?",
+    "answers": [
+      "Bláthy Ottó",
+      "Jedlik Ányos",
+      "Puskás Tivadar",
+      "Irinyi János"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "nehéz",
+    "text": "Melyik magyar fizikus a dinamó elvének egyik felfedezője?",
+    "answers": [
+      "Teller Ede",
+      "Jedlik Ányos",
+      "Eötvös Loránd",
+      "Gábor Dénes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Melyik magyar származású fizikust nevezik „a hidrogénbomba atyjának”?",
+    "answers": [
+      "Wigner Jenő",
+      "Teller Ede",
+      "Szilárd Leó",
+      "Neumann János"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Melyik magyar–amerikai tudós a modern számítógép-architektúra atyja?",
+    "answers": [
+      "Kármán Tódor",
+      "Neumann János",
+      "Gábor Dénes",
+      "Teller Ede"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "nehéz",
+    "text": "Melyik magyar fizikus kapott Nobel-díjat a holográfia feltalálásáért?",
+    "answers": [
+      "Gábor Dénes",
+      "Bárány Róbert",
+      "Wigner Jenő",
+      "Hevesy György"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "könnyű",
+    "text": "Mi a víz kémiai képlete?",
+    "answers": [
+      "NaCl",
+      "CO2",
+      "O2",
+      "H2O"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Mi az arany vegyjele?",
+    "answers": [
+      "Au",
+      "Ag",
+      "Fe",
+      "Al"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Mi a vas vegyjele?",
+    "answers": [
+      "Fe",
+      "Fr",
+      "Pb",
+      "Va"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Melyik elem vegyjele a „Na”?",
+    "answers": [
+      "nikkel",
+      "nitrogén",
+      "neon",
+      "nátrium"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Hány bolygó van a Naprendszerben?",
+    "answers": [
+      "8",
+      "10",
+      "9",
+      "7"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Melyik a Naphoz legközelebbi bolygó?",
+    "answers": [
+      "Merkúr",
+      "Föld",
+      "Vénusz",
+      "Mars"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "könnyű",
+    "text": "Melyik a legnagyobb bolygó a Naprendszerben?",
+    "answers": [
+      "Jupiter",
+      "Szaturnusz",
+      "Föld",
+      "Neptunusz"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "könnyű",
+    "text": "Melyik bolygót nevezik vörös bolygónak?",
+    "answers": [
+      "Vénusz",
+      "Merkúr",
+      "Mars",
+      "Jupiter"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Melyik gáz teszi ki a Föld légkörének legnagyobb részét?",
+    "answers": [
+      "nitrogén",
+      "oxigén",
+      "hidrogén",
+      "szén-dioxid"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "könnyű",
+    "text": "Hány Celsius-foknál fagy meg a víz?",
+    "answers": [
+      "32",
+      "-10",
+      "0",
+      "100"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "könnyű",
+    "text": "Hány Celsius-foknál forr a víz tengerszinten?",
+    "answers": [
+      "80",
+      "120",
+      "90",
+      "100"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Hány csontból áll megközelítőleg a felnőtt emberi test?",
+    "answers": [
+      "156",
+      "206",
+      "106",
+      "306"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Melyik vitamin képződik a bőrben napfény hatására?",
+    "answers": [
+      "C-vitamin",
+      "B12-vitamin",
+      "D-vitamin",
+      "A-vitamin"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "nehéz",
+    "text": "Mekkora a fény sebessége vákuumban közelítőleg?",
+    "answers": [
+      "150 000 km/s",
+      "1 000 000 km/s",
+      "300 000 km/s",
+      "30 000 km/s"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Melyik bolygónak van látványos gyűrűrendszere?",
+    "answers": [
+      "Vénusz",
+      "Szaturnusz",
+      "Mars",
+      "Merkúr"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Sport",
+    "difficulty": "könnyű",
+    "text": "Hány játékos van a pályán egy labdarúgócsapatban, a kapussal együtt?",
+    "answers": [
+      "9",
+      "12",
+      "10",
+      "11"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Sport",
+    "difficulty": "közepes",
+    "text": "Ki volt az Aranycsapat legendás csapatkapitánya?",
+    "answers": [
+      "Grosics Gyula",
+      "Puskás Ferenc",
+      "Bozsik József",
+      "Albert Flórián"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Sport",
+    "difficulty": "nehéz",
+    "text": "Melyik évben játszotta a magyar válogatott a berni vb-döntőt?",
+    "answers": [
+      "1938",
+      "1950",
+      "1954",
+      "1966"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Sport",
+    "difficulty": "közepes",
+    "text": "Melyik csapatsportban a legsikeresebb a magyar válogatott az olimpiákon?",
+    "answers": [
+      "kosárlabda",
+      "jégkorong",
+      "vízilabda",
+      "röplabda"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Sport",
+    "difficulty": "közepes",
+    "text": "Melyik sportág Egerszegi Krisztina sportága?",
+    "answers": [
+      "vívás",
+      "atlétika",
+      "úszás",
+      "torna"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Sport",
+    "difficulty": "közepes",
+    "text": "Melyik magyar úszónő nyert három aranyérmet a 2016-os riói olimpián?",
+    "answers": [
+      "Egerszegi Krisztina",
+      "Verrasztó Evelyn",
+      "Risztov Éva",
+      "Hosszú Katinka"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Sport",
+    "difficulty": "közepes",
+    "text": "Hány gyűrű látható az olimpiai zászlón?",
+    "answers": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Sport",
+    "difficulty": "közepes",
+    "text": "Melyik országban rendezték a 2016-os nyári olimpiát?",
+    "answers": [
+      "Japán",
+      "Egyesült Királyság",
+      "Brazília",
+      "Kína"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Sport",
+    "difficulty": "közepes",
+    "text": "Melyik magyar pályán rendezik a Forma-1-es Magyar Nagydíjat?",
+    "answers": [
+      "Kakucs Ring",
+      "Balaton Park",
+      "Hungaroring",
+      "Pannónia Ring"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Sport",
+    "difficulty": "nehéz",
+    "text": "Melyik sportágban lett háromszoros olimpiai bajnok Papp László?",
+    "answers": [
+      "birkózás",
+      "ökölvívás",
+      "vívás",
+      "cselgáncs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Sport",
+    "difficulty": "közepes",
+    "text": "Melyik sportágban használnak tőrt, kardot és párbajtőrt?",
+    "answers": [
+      "öttusa",
+      "kerékpározás",
+      "vívás",
+      "íjászat"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Sport",
+    "difficulty": "könnyű",
+    "text": "Hány perc egy labdarúgó-mérkőzés rendes játékideje?",
+    "answers": [
+      "120",
+      "60",
+      "90",
+      "100"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "könnyű",
+    "text": "Hány napból áll egy szökőév?",
+    "answers": [
+      "364",
+      "367",
+      "366",
+      "365"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "könnyű",
+    "text": "Hány hónapból áll egy év?",
+    "answers": [
+      "13",
+      "11",
+      "12",
+      "10"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "könnyű",
+    "text": "Hány fokos a derékszög?",
+    "answers": [
+      "60",
+      "45",
+      "180",
+      "90"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "könnyű",
+    "text": "Mennyi 12 szorozva 12-vel?",
+    "answers": [
+      "144",
+      "124",
+      "154",
+      "132"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "közepes",
+    "text": "Mennyi a kör kerületének és átmérőjének aránya közelítőleg?",
+    "answers": [
+      "9,81",
+      "2,72",
+      "3,14",
+      "1,61"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "könnyű",
+    "text": "Melyik a legnagyobb állat a Földön?",
+    "answers": [
+      "kék bálna",
+      "afrikai elefánt",
+      "zsiráf",
+      "fehér cápa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "könnyű",
+    "text": "Melyik a leggyorsabb szárazföldi állat?",
+    "answers": [
+      "antilop",
+      "gepárd",
+      "oroszlán",
+      "ló"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "közepes",
+    "text": "Hány lába van egy rovarnak?",
+    "answers": [
+      "4",
+      "10",
+      "8",
+      "6"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "közepes",
+    "text": "Hány kontinens van a Földön?",
+    "answers": [
+      "5",
+      "8",
+      "6",
+      "7"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "közepes",
+    "text": "Hány foga van bölcsességfogakkal együtt egy felnőtt embernek?",
+    "answers": [
+      "28",
+      "32",
+      "30",
+      "36"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "könnyű",
+    "text": "Milyen színt kapunk a kék és a sárga keverékéből?",
+    "answers": [
+      "narancs",
+      "lila",
+      "barna",
+      "zöld"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "közepes",
+    "text": "Hány halmazállapota van alapvetően a víznek?",
+    "answers": [
+      "2",
+      "5",
+      "3",
+      "4"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "nehéz",
+    "text": "Melyik a magyarok körében hagyományosan nemzeti madárnak tekintett ragadozó?",
+    "answers": [
+      "fehér gólya",
+      "túzok",
+      "kerecsensólyom",
+      "rétisas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "közepes",
+    "text": "Melyik fa terem makkot?",
+    "answers": [
+      "fűz",
+      "tölgy",
+      "nyír",
+      "fenyő"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "közepes",
+    "text": "Kiről nevezték el Budapest nemzetközi repülőterét?",
+    "answers": [
+      "Bartók Béla",
+      "Kossuth Lajos",
+      "Liszt Ferenc",
+      "Petőfi Sándor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "nehéz",
+    "text": "Melyik magyar matematikusról nevezték el a tudományos együttműködést jelölő „számot”?",
+    "answers": [
+      "Neumann János",
+      "Erdős Pál",
+      "Bolyai János",
+      "Riesz Frigyes"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "nehéz",
+    "text": "Melyik magyar származású fotós a Magnum fotóügynökség egyik alapítója?",
+    "answers": [
+      "Brassaï",
+      "Moholy-Nagy László",
+      "André Kertész",
+      "Robert Capa"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "nehéz",
+    "text": "Ki szerezte a világhírűvé vált „Szomorú vasárnap” című dalt?",
+    "answers": [
+      "Bartók Béla",
+      "Seress Rezső",
+      "Kálmán Imre",
+      "Lehár Ferenc"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "közepes",
+    "text": "Melyik magyar származású milliárdos befektető nevéhez fűződik a Quantum Fund?",
+    "answers": [
+      "Carl Icahn",
+      "Soros György",
+      "Peter Thiel",
+      "Andrew Grove"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "könnyű",
+    "text": "Kiről nevezte el a FIFA az év legszebb góljáért járó díjat?",
+    "answers": [
+      "Grosics Gyula",
+      "Puskás Ferenc",
+      "Bozsik József",
+      "Albert Flórián"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "nehéz",
+    "text": "Melyik magyar vívó nyerte a legtöbb olimpiai aranyérmet a magyar sportolók közül?",
+    "answers": [
+      "Kovács Pál",
+      "Kárpáti Rudolf",
+      "Nagy Tímea",
+      "Gerevich Aladár"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "nehéz",
+    "text": "Melyik sportágban lett sokszoros olimpiai bajnok Keleti Ágnes?",
+    "answers": [
+      "úszás",
+      "vívás",
+      "torna",
+      "atlétika"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "nehéz",
+    "text": "Ki szerezte a Csárdáskirálynő című nagy sikerű operettet?",
+    "answers": [
+      "Kálmán Imre",
+      "Lehár Ferenc",
+      "Erkel Ferenc",
+      "Huszka Jenő"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "nehéz",
+    "text": "Ki szerezte A víg özvegy című operettet?",
+    "answers": [
+      "Kálmán Imre",
+      "Johann Strauss",
+      "Offenbach",
+      "Lehár Ferenc"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "nehéz",
+    "text": "Melyik magyar színész alakította Hollywoodban az első hangosfilmes Drakulát?",
+    "answers": [
+      "Lugosi Béla",
+      "Cserhalmi György",
+      "Latinovits Zoltán",
+      "Páger Antal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "nehéz",
+    "text": "Melyik magyar származású fizikus vett részt a Manhattan-tervben Teller Ede és Wigner Jenő mellett?",
+    "answers": [
+      "Eötvös Loránd",
+      "Gábor Dénes",
+      "Szilárd Leó",
+      "Hevesy György"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "nehéz",
+    "text": "Melyik magyar Nobel-díjas kémikus dolgozta ki a radioaktív nyomjelzés módszerét?",
+    "answers": [
+      "Wigner Jenő",
+      "Oláh György",
+      "Gábor Dénes",
+      "Hevesy György"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "nehéz",
+    "text": "Melyik magyar mérnök volt a Ford T-modell egyik fő tervezője?",
+    "answers": [
+      "Kandó Kálmán",
+      "Csonka János",
+      "Galamb József",
+      "Bánki Donát"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "nehéz",
+    "text": "Melyik magyar feltaláló nevéhez fűződik a telefonhírmondó?",
+    "answers": [
+      "Puskás Tivadar",
+      "Zipernowsky Károly",
+      "Déri Miksa",
+      "Bláthy Ottó"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "közepes",
+    "text": "Melyik magyar orvost nevezik „az anyák megmentőjének” a gyermekágyi láz visszaszorítása miatt?",
+    "answers": [
+      "Korányi Sándor",
+      "Markusovszky Lajos",
+      "Hőgyes Endre",
+      "Semmelweis Ignác"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "nehéz",
+    "text": "Hány olimpiai aranyérmet nyert pályafutása során Egerszegi Krisztina?",
+    "answers": [
+      "3",
+      "7",
+      "2",
+      "5"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Híres magyarok",
+    "difficulty": "nehéz",
+    "text": "Melyik magyar matematikus a nemeuklideszi geometria egyik megalkotója?",
+    "answers": [
+      "Bolyai János",
+      "Erdős Pál",
+      "Neumann János",
+      "Fejér Lipót"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Természet",
+    "difficulty": "közepes",
+    "text": "Melyik a legnagyobb ma élő madár?",
+    "answers": [
+      "albatrosz",
+      "kondorkeselyű",
+      "sas",
+      "strucc"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Természet",
+    "difficulty": "nehéz",
+    "text": "Melyik madár éri el a legnagyobb sebességet zuhanórepülésben?",
+    "answers": [
+      "vándorsólyom",
+      "sas",
+      "kolibri",
+      "fecske"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Természet",
+    "difficulty": "könnyű",
+    "text": "Melyik emlős képes valódi, aktív repülésre?",
+    "answers": [
+      "sün",
+      "mókus",
+      "vakond",
+      "denevér"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Természet",
+    "difficulty": "közepes",
+    "text": "Melyik a legnagyobb szárazföldi ragadozó?",
+    "answers": [
+      "tigris",
+      "jegesmedve",
+      "oroszlán",
+      "barnamedve"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Természet",
+    "difficulty": "közepes",
+    "text": "Melyik gázt veszik fel a növények a fotoszintézishez?",
+    "answers": [
+      "nitrogén",
+      "oxigén",
+      "szén-dioxid",
+      "hidrogén"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Természet",
+    "difficulty": "könnyű",
+    "text": "Milyen gázt termelnek a növények a fotoszintézis során?",
+    "answers": [
+      "szén-dioxid",
+      "nitrogén",
+      "metán",
+      "oxigén"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Természet",
+    "difficulty": "könnyű",
+    "text": "Hány lába van egy póknak?",
+    "answers": [
+      "8",
+      "6",
+      "4",
+      "10"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Természet",
+    "difficulty": "közepes",
+    "text": "Melyik vérsejtek szállítják az oxigént a szervezetben?",
+    "answers": [
+      "vérlemezkék",
+      "idegsejtek",
+      "vörösvérsejtek",
+      "fehérvérsejtek"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Természet",
+    "difficulty": "könnyű",
+    "text": "Melyik szerv pumpálja a vért a testben?",
+    "answers": [
+      "szív",
+      "máj",
+      "tüdő",
+      "vese"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Természet",
+    "difficulty": "közepes",
+    "text": "Melyik a legnagyobb szerv az emberi testben?",
+    "answers": [
+      "máj",
+      "tüdő",
+      "agy",
+      "bőr"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Természet",
+    "difficulty": "közepes",
+    "text": "Hány kamrából áll az emberi szív?",
+    "answers": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Természet",
+    "difficulty": "könnyű",
+    "text": "Melyik vitaminból van sok a citrusfélékben?",
+    "answers": [
+      "B12-vitamin",
+      "C-vitamin",
+      "K-vitamin",
+      "D-vitamin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Természet",
+    "difficulty": "könnyű",
+    "text": "Melyik rovar készít mézet?",
+    "answers": [
+      "hangya",
+      "méh",
+      "szúnyog",
+      "darázs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Természet",
+    "difficulty": "közepes",
+    "text": "Mi a béka lárvaállapotának neve?",
+    "answers": [
+      "lárva",
+      "hernyó",
+      "pondró",
+      "ebihal"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Természet",
+    "difficulty": "közepes",
+    "text": "Melyik állatcsoportba tartozik a delfin?",
+    "answers": [
+      "kétéltűek",
+      "emlősök",
+      "hüllők",
+      "halak"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Természet",
+    "difficulty": "közepes",
+    "text": "Melyik anyag adja a növények zöld színét?",
+    "answers": [
+      "hemoglobin",
+      "klorofill",
+      "melanin",
+      "keratin"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Természet",
+    "difficulty": "közepes",
+    "text": "Melyik állatcsoportba tartozik a cápa?",
+    "answers": [
+      "halak",
+      "kétéltűek",
+      "hüllők",
+      "emlősök"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Természet",
+    "difficulty": "könnyű",
+    "text": "Körülbelül hány Celsius-fok az egészséges emberi testhőmérséklet?",
+    "answers": [
+      "42",
+      "30",
+      "37",
+      "40"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Természet",
+    "difficulty": "közepes",
+    "text": "Melyik a méhcsalád egyetlen tojásrakó nősténye?",
+    "answers": [
+      "a dolgozó",
+      "az anyaméh",
+      "a rajméh",
+      "a here"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Természet",
+    "difficulty": "közepes",
+    "text": "Melyik a leggyorsabban növő lágyszárú növény?",
+    "answers": [
+      "tulipán",
+      "kaktusz",
+      "tölgy",
+      "bambusz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar hagyományok",
+    "difficulty": "könnyű",
+    "text": "Melyik ünnephez kötődik a locsolkodás hagyománya?",
+    "answers": [
+      "karácsony",
+      "pünkösd",
+      "farsang",
+      "húsvét"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar hagyományok",
+    "difficulty": "könnyű",
+    "text": "Melyik napon van az államalapítás és Szent István ünnepe?",
+    "answers": [
+      "május 1.",
+      "augusztus 20.",
+      "október 23.",
+      "március 15."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar hagyományok",
+    "difficulty": "közepes",
+    "text": "Melyik jelképes étel kötődik az augusztus 20-i ünnephez?",
+    "answers": [
+      "a pogácsa",
+      "a kürtőskalács",
+      "az új kenyér",
+      "a beigli"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar hagyományok",
+    "difficulty": "közepes",
+    "text": "Melyik városban tartják a híres busójárást?",
+    "answers": [
+      "Mohács",
+      "Eger",
+      "Szeged",
+      "Debrecen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar hagyományok",
+    "difficulty": "közepes",
+    "text": "Mit jelképez hagyományosan a mohácsi busójárás?",
+    "answers": [
+      "a tél elűzését",
+      "a szüretet",
+      "a tavaszi vetést",
+      "az aratás végét"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar hagyományok",
+    "difficulty": "közepes",
+    "text": "Melyik ünnep előestéjén állítják hagyományosan a májusfát?",
+    "answers": [
+      "pünkösd",
+      "húsvét",
+      "augusztus 20.",
+      "május 1."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar hagyományok",
+    "difficulty": "közepes",
+    "text": "Melyik jeles naphoz kötődik a libasült fogyasztása?",
+    "answers": [
+      "András-nap",
+      "Mihály-nap",
+      "Márton-nap",
+      "Luca-nap"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar hagyományok",
+    "difficulty": "közepes",
+    "text": "Melyik városhoz kötődik a híres virágos népi hímzés?",
+    "answers": [
+      "Tokaj",
+      "Eger",
+      "Sopron",
+      "Kalocsa"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar hagyományok",
+    "difficulty": "könnyű",
+    "text": "Melyik a hagyományos magyar gyümölcspárlat?",
+    "answers": [
+      "rum",
+      "pálinka",
+      "whisky",
+      "vodka"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar hagyományok",
+    "difficulty": "könnyű",
+    "text": "Milyen színű a március 15-én viselt kokárda?",
+    "answers": [
+      "piros-fehér-zöld",
+      "piros-fehér-kék",
+      "kék-sárga",
+      "fekete-fehér"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar hagyományok",
+    "difficulty": "nehéz",
+    "text": "A magyar kultúra napján (január 22.) melyik mű megszületésére emlékezünk?",
+    "answers": [
+      "a Himnusz",
+      "a Szózat",
+      "a Toldi",
+      "a Nemzeti dal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar hagyományok",
+    "difficulty": "könnyű",
+    "text": "Melyik ünnephez kötődik a karácsonyfa állítása?",
+    "answers": [
+      "újév",
+      "pünkösd",
+      "karácsony",
+      "húsvét"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Világtörténelem",
+    "difficulty": "könnyű",
+    "text": "Melyik évben fedezte fel Kolumbusz Amerikát?",
+    "answers": [
+      "1520",
+      "1492",
+      "1410",
+      "1066"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Világtörténelem",
+    "difficulty": "közepes",
+    "text": "Melyik évben tört ki a francia forradalom?",
+    "answers": [
+      "1789",
+      "1776",
+      "1815",
+      "1848"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Világtörténelem",
+    "difficulty": "könnyű",
+    "text": "Ki volt az első ember a Holdon?",
+    "answers": [
+      "Buzz Aldrin",
+      "Jurij Gagarin",
+      "Neil Armstrong",
+      "Michael Collins"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Világtörténelem",
+    "difficulty": "közepes",
+    "text": "Melyik évben lépett ember először a Holdra?",
+    "answers": [
+      "1961",
+      "1969",
+      "1959",
+      "1975"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Világtörténelem",
+    "difficulty": "közepes",
+    "text": "Melyik évben ért véget az első világháború?",
+    "answers": [
+      "1918",
+      "1920",
+      "1939",
+      "1914"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Világtörténelem",
+    "difficulty": "könnyű",
+    "text": "Melyik évben tört ki a második világháború?",
+    "answers": [
+      "1918",
+      "1939",
+      "1941",
+      "1945"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Világtörténelem",
+    "difficulty": "közepes",
+    "text": "Melyik évben dőlt le a berlini fal?",
+    "answers": [
+      "1989",
+      "1979",
+      "1961",
+      "1991"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Világtörténelem",
+    "difficulty": "nehéz",
+    "text": "Ki volt a Római Birodalom első császára?",
+    "answers": [
+      "Nero",
+      "Augustus",
+      "Traianus",
+      "Julius Caesar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Világtörténelem",
+    "difficulty": "közepes",
+    "text": "Ki festette a Sixtus-kápolna mennyezetét?",
+    "answers": [
+      "Leonardo da Vinci",
+      "Raffaello",
+      "Donatello",
+      "Michelangelo"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Világtörténelem",
+    "difficulty": "könnyű",
+    "text": "Ki vezette a náci Németországot a második világháború idején?",
+    "answers": [
+      "Adolf Hitler",
+      "Winston Churchill",
+      "Joszif Sztálin",
+      "Benito Mussolini"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Világtörténelem",
+    "difficulty": "közepes",
+    "text": "Melyik birodalom uralta a Kárpát-medence nagy részét a 16–17. században?",
+    "answers": [
+      "az Orosz Birodalom",
+      "az Oszmán Birodalom",
+      "a Brit Birodalom",
+      "a Spanyol Birodalom"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Világtörténelem",
+    "difficulty": "közepes",
+    "text": "Melyik francia hadvezért és császárt győzték le Waterloónál 1815-ben?",
+    "answers": [
+      "Robespierre",
+      "Napóleon",
+      "De Gaulle",
+      "XIV. Lajos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Világtörténelem",
+    "difficulty": "könnyű",
+    "text": "Melyik óceánjáró hajó süllyedt el 1912-ben, miután jéghegynek ütközött?",
+    "answers": [
+      "Lusitania",
+      "Queen Mary",
+      "Britannic",
+      "Titanic"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "közepes",
+    "text": "Melyik magyar rajzfilm főhőse egy kis róka, Fekete István regénye nyomán?",
+    "answers": [
+      "Pom Pom",
+      "Mézga Aladár",
+      "Vuk",
+      "Süsü"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "nehéz",
+    "text": "Melyik magyar együttes a „Gyöngyhajú lány” című sláger előadója?",
+    "answers": [
+      "Metro",
+      "Omega",
+      "Locomotiv GT",
+      "Illés"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "közepes",
+    "text": "Melyik magyar rockopera szól az államalapítás koráról?",
+    "answers": [
+      "Valahol Európában",
+      "A Padlás",
+      "István, a király",
+      "Légy jó mindhalálig"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "nehéz",
+    "text": "Ki szerezte az „István, a király” rockopera zenéjét?",
+    "answers": [
+      "Bródy János",
+      "Szörényi Levente",
+      "Presser Gábor",
+      "Koncz Zsuzsa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "könnyű",
+    "text": "Melyik hangszercsaládba tartozik a hegedű?",
+    "answers": [
+      "fúvós",
+      "vonós",
+      "ütős",
+      "billentyűs"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "közepes",
+    "text": "Hány húrja van egy hagyományos hegedűnek?",
+    "answers": [
+      "3",
+      "4",
+      "6",
+      "5"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "közepes",
+    "text": "Ki komponálta a IX. szimfóniát, amelynek része az Örömóda?",
+    "answers": [
+      "Beethoven",
+      "Bach",
+      "Mozart",
+      "Brahms"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar kultúra",
+    "difficulty": "közepes",
+    "text": "Melyik zenei korszak kiemelkedő szerzője Mozart?",
+    "answers": [
+      "barokk",
+      "bécsi klasszika",
+      "reneszánsz",
+      "romantika"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Melyik szervrendszer része a tüdő?",
+    "answers": [
+      "idegrendszer",
+      "légzőrendszer",
+      "emésztőrendszer",
+      "keringési rendszer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Körülbelül mennyi idő alatt kerüli meg a Hold a Földet?",
+    "answers": [
+      "kb. egy hét",
+      "kb. egy nap",
+      "kb. egy év",
+      "kb. egy hónap"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Melyik bolygó van a legtávolabb a Naptól?",
+    "answers": [
+      "Uránusz",
+      "Szaturnusz",
+      "Mars",
+      "Neptunusz"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Mi a konyhasó kémiai képlete?",
+    "answers": [
+      "KCl",
+      "H2O",
+      "NaCl",
+      "CO2"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Melyik fém folyékony szobahőmérsékleten?",
+    "answers": [
+      "ólom",
+      "higany",
+      "alumínium",
+      "vas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "közepes",
+    "text": "Hogyan nevezzük a Föld legkülső, szilárd kőzetburkát?",
+    "answers": [
+      "mag",
+      "litoszféra-mag",
+      "földkéreg",
+      "köpeny"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Tudomány és technika",
+    "difficulty": "könnyű",
+    "text": "Melyik tudományág foglalkozik az élőlényekkel?",
+    "answers": [
+      "kémia",
+      "földrajz",
+      "fizika",
+      "biológia"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "nehéz",
+    "text": "Melyik uralkodóház tagja volt Károly Róbert, a 14. századi magyar király?",
+    "answers": [
+      "Habsburg-ház",
+      "Anjou-ház",
+      "Jagelló-ház",
+      "Árpád-ház"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "nehéz",
+    "text": "Melyik magyar király volt egyben német-római császár is a 15. század elején?",
+    "answers": [
+      "Luxemburgi Zsigmond",
+      "Hunyadi János",
+      "I. Mátyás",
+      "II. Ulászló"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Melyik évben verték le az 1848–49-es szabadságharcot (világosi fegyverletétel)?",
+    "answers": [
+      "1851",
+      "1849",
+      "1848",
+      "1867"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "nehéz",
+    "text": "Ki volt az 1919-es Tanácsköztársaság egyik vezető alakja?",
+    "answers": [
+      "Rákosi Mátyás",
+      "Nagy Imre",
+      "Kun Béla",
+      "Károlyi Mihály"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Kit neveztek „a haza bölcsének”, a kiegyezés egyik fő megalkotóját?",
+    "answers": [
+      "Széchenyi István",
+      "Kossuth Lajos",
+      "Andrássy Gyula",
+      "Deák Ferenc"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar történelem",
+    "difficulty": "közepes",
+    "text": "Melyik nép vezére volt Attila, akit a magyar mondavilág is számon tart?",
+    "answers": [
+      "a vandálok",
+      "az avarok",
+      "a hunok",
+      "a gótok"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "közepes",
+    "text": "Ki írta a „Családi kör” című verset?",
+    "answers": [
+      "Arany János",
+      "Petőfi Sándor",
+      "Tompa Mihály",
+      "Vörösmarty Mihály"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "nehéz",
+    "text": "Melyik Jókai-regény főhőse Tímár Mihály?",
+    "answers": [
+      "A kőszívű ember fiai",
+      "Egy magyar nábob",
+      "Fekete gyémántok",
+      "Az arany ember"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "könnyű",
+    "text": "Ki az Arany János elbeszélő költeményének címszereplője, a nagy erejű paraszti hős?",
+    "answers": [
+      "Ludas Matyi",
+      "Bánk bán",
+      "Toldi Miklós",
+      "János vitéz"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "nehéz",
+    "text": "Ki írta a Pacsirta és az Esti Kornél című műveket?",
+    "answers": [
+      "Babits Mihály",
+      "Móricz Zsigmond",
+      "Krúdy Gyula",
+      "Kosztolányi Dezső"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyar irodalom",
+    "difficulty": "nehéz",
+    "text": "Ki írta a Jónás könyve című művet?",
+    "answers": [
+      "Ady Endre",
+      "Babits Mihály",
+      "Kosztolányi Dezső",
+      "József Attila"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Sport",
+    "difficulty": "közepes",
+    "text": "Hány pontot ér egy mezőnyből, a hárompontos vonalon belülről dobott kosár?",
+    "answers": [
+      "4",
+      "1",
+      "3",
+      "2"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Sport",
+    "difficulty": "könnyű",
+    "text": "Hány évente rendezik a nyári olimpiai játékokat?",
+    "answers": [
+      "4",
+      "5",
+      "3",
+      "2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Sport",
+    "difficulty": "könnyű",
+    "text": "Melyik országban tartották az ókori olimpiai játékokat?",
+    "answers": [
+      "Törökország",
+      "Görögország",
+      "Olaszország",
+      "Egyiptom"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Sport",
+    "difficulty": "könnyű",
+    "text": "Melyik sportág híres tornája Wimbledon?",
+    "answers": [
+      "asztalitenisz",
+      "golf",
+      "tenisz",
+      "krikett"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Sport",
+    "difficulty": "közepes",
+    "text": "Hány játékos van a pályán egy kosárlabdacsapatban?",
+    "answers": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Sport",
+    "difficulty": "nehéz",
+    "text": "Melyik sportág hozta a legtöbb olimpiai aranyérmet Magyarországnak összesítve?",
+    "answers": [
+      "úszás",
+      "birkózás",
+      "kajak-kenu",
+      "vívás"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "könnyű",
+    "text": "Mi Oroszország fővárosa?",
+    "answers": [
+      "Minszk",
+      "Szentpétervár",
+      "Kijev",
+      "Moszkva"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "könnyű",
+    "text": "Mi Görögország fővárosa?",
+    "answers": [
+      "Korinthosz",
+      "Théba",
+      "Athén",
+      "Spárta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "közepes",
+    "text": "Melyik a Föld legnagyobb forró sivataga?",
+    "answers": [
+      "Kalahári",
+      "Góbi",
+      "Atacama",
+      "Szahara"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "könnyű",
+    "text": "Melyik országban található a Colosseum?",
+    "answers": [
+      "Görögország",
+      "Spanyolország",
+      "Franciaország",
+      "Olaszország"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Világ földrajza",
+    "difficulty": "nehéz",
+    "text": "Melyik a Föld legnagyobb tava (kiterjedését tekintve)?",
+    "answers": [
+      "Viktória-tó",
+      "Bajkál-tó",
+      "Felső-tó",
+      "Kaszpi-tenger"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Melyik tiszántúli nagyváros ad otthont az ország egyik legnagyobb egyetemének?",
+    "answers": [
+      "Szolnok",
+      "Nyíregyháza",
+      "Debrecen",
+      "Békéscsaba"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Minek a része a Bükk és a Mátra hegység?",
+    "answers": [
+      "Alpokalja",
+      "Dunántúli-középhegység",
+      "Mecsek",
+      "Északi-középhegység"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "nehéz",
+    "text": "Melyik megye székhelye Kaposvár?",
+    "answers": [
+      "Baranya",
+      "Zala",
+      "Somogy",
+      "Tolna"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Melyik nagyváros fekszik a Mecsek hegység lábánál?",
+    "answers": [
+      "Szeged",
+      "Pécs",
+      "Veszprém",
+      "Miskolc"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Magyarország földrajza",
+    "difficulty": "közepes",
+    "text": "Melyik Duna-kanyari városban állt Mátyás király híres reneszánsz palotája?",
+    "answers": [
+      "Vác",
+      "Szentendre",
+      "Esztergom",
+      "Visegrád"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "könnyű",
+    "text": "Mennyi 7 szorozva 8-cal?",
+    "answers": [
+      "64",
+      "56",
+      "54",
+      "48"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "könnyű",
+    "text": "Mennyi 100 osztva 4-gyel?",
+    "answers": [
+      "20",
+      "40",
+      "50",
+      "25"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "közepes",
+    "text": "Mennyi 200 tíz százaléka?",
+    "answers": [
+      "10",
+      "40",
+      "2",
+      "20"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "könnyű",
+    "text": "Hány oldala van egy szabályos hatszögnek?",
+    "answers": [
+      "8",
+      "7",
+      "5",
+      "6"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "könnyű",
+    "text": "Hány darabot jelent egy tucat?",
+    "answers": [
+      "12",
+      "6",
+      "10",
+      "20"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "könnyű",
+    "text": "Hány évből áll egy évszázad?",
+    "answers": [
+      "50",
+      "100",
+      "1000",
+      "10"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "könnyű",
+    "text": "Hány fokos egy teljes kör?",
+    "answers": [
+      "360",
+      "90",
+      "180",
+      "270"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "category": "Általános műveltség",
+    "difficulty": "közepes",
+    "text": "Hány perc másfél óra?",
+    "answers": [
+      "90",
+      "60",
+      "75",
+      "120"
+    ],
+    "correctIndex": 0
+  }
+]

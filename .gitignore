@@ -1,0 +1,33 @@
+# ---- Backend (Kotlin / Gradle) ----
+backend/.gradle/
+backend/build/
+backend/out/
+**/*.class
+
+# SQLite database (regenerated/seeded on startup)
+backend/guessthebest.db
+*.db
+*.sqlite
+*.sqlite3
+
+# ---- Frontend (Node / Vite) ----
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---- IDE / Editor ----
+.idea/
+*.iml
+.vscode/
+*.swp
+.DS_Store
+
+# ---- OS ----
+Thumbs.db
+
+# ---- Claude ----
+.claude/
