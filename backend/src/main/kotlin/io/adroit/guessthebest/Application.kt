@@ -53,6 +53,28 @@ fun Application.module() {
             call.respond(repo.categories())
         }
 
+        // GET /api/meta -> topic+difficulty combos the client builds the 5x5 board from
+        get("/api/meta") {
+            call.respond(repo.meta())
+        }
+
+        // GET /api/question?category=..&difficulty=..&exclude=1,2,3 -> one question (no answer)
+        get("/api/question") {
+            val category = call.request.queryParameters["category"]
+            val difficulty = call.request.queryParameters["difficulty"]
+            val exclude = call.request.queryParameters["exclude"]
+                ?.split(",")
+                ?.mapNotNull { it.trim().toIntOrNull() }
+                ?.toSet()
+                ?: emptySet()
+            val question = repo.drawQuestion(category, difficulty, exclude)
+            if (question == null) {
+                call.respond(HttpStatusCode.NotFound, mapOf("error" to "no question available"))
+                return@get
+            }
+            call.respond(question)
+        }
+
         // POST /api/questions/{id}/answer  body: { "selectedIndex": 2 }
         post("/api/questions/{id}/answer") {
             val id = call.parameters["id"]?.toIntOrNull()

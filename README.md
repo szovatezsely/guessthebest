@@ -1,13 +1,16 @@
 # GuessTheBest — Quiz Game
 
-A "Who Wants to Be a Millionaire"–style quiz game ("Legyen Ön is milliomos" in
-Hungarian): every question has four answers, exactly one of which is correct. The
-questions are in **Hungarian**.
+A Hungarian quiz **board game** for 1–10 players sharing one device. A 5×5 grid of
+cards each shows a topic and difficulty; pick one, confirm, and answer the revealed
+question (four options, one correct). All questions and answers are in **Hungarian**.
 
-- **Backend:** Kotlin + [Ktor](https://ktor.io/), backed by SQLite (plain JDBC).
+- **Backend:** Kotlin + [Ktor](https://ktor.io/), backed by SQLite (plain JDBC). Stateless —
+  it serves the question pool; the browser holds the game state.
 - **Frontend:** [Vue 3](https://vuejs.org/) + [Vite](https://vitejs.dev/), served by nginx in Docker.
 
 The fastest way to run it is [with Docker](#running-with-docker-recommended).
+
+See [Gameplay](#gameplay) for the full rules.
 
 ---
 
@@ -15,27 +18,26 @@ The fastest way to run it is [with Docker](#running-with-docker-recommended).
 
 ```
 guessthebest/
-├── backend/                 # Ktor REST API + SQLite
+├── backend/                 # Ktor REST API + SQLite (stateless)
 │   ├── src/main/kotlin/io/adroit/guessthebest/
-│   │   ├── Application.kt        # entry point, routes, plugins
+│   │   ├── Application.kt        # entry point + routes
 │   │   ├── Database.kt           # SQLite schema + seed loading
-│   │   ├── QuestionRepository.kt # queries
+│   │   ├── QuestionRepository.kt # queries (meta, draw, answer check)
 │   │   └── Models.kt             # API DTOs
-│   └── src/main/resources/
-│       ├── questions.json        # seed set loaded at startup (generated, see tools/)
-│       └── logback.xml
+│   ├── src/main/resources/
+│   │   ├── questions.json        # seed set loaded at startup (generated, see tools/)
+│   │   └── logback.xml
+│   └── Dockerfile           # multi-stage build (JDK build -> JRE runtime)
 ├── frontend/                # Vue 3 + Vite client
-│   └── src/
-│       ├── App.vue               # game logic and state
-│       ├── api.js                # backend calls
-│       ├── style.css             # styling
-│       └── components/           # StartScreen / QuestionView / ResultScreen
-│   ├── Dockerfile           # multi-stage build (JDK build -> JRE runtime)
-│   └── ...
-├── frontend/
-│   ├── Dockerfile           # multi-stage build (Vite build -> nginx)
+│   ├── src/
+│   │   ├── App.vue               # game orchestration + state
+│   │   ├── api.js                # backend calls
+│   │   ├── game.js               # rules: points, board build, standings
+│   │   ├── style.css             # styling
+│   │   └── components/           # PlayerSetup, QuizGrid, ConfirmModal,
+│   │                             #   QuestionModal, Leaderboard, RankingBar, ResultScreen
 │   ├── nginx.conf           # serves the SPA + reverse-proxies /api -> backend
-│   └── ...
+│   └── Dockerfile           # multi-stage build (Vite build -> nginx)
 ├── tools/
 │   ├── questions-source.json     # hand-authored Hungarian questions (the source)
 │   └── build-questions.mjs       # validates + shuffles -> questions.json
@@ -122,9 +124,10 @@ so no extra CORS configuration is needed during development.
 | Method | Path | Description |
 | ------ | ---- | ----------- |
 | `GET`  | `/api/health` | Health check (`{"status":"ok"}`). |
-| `GET`  | `/api/questions?count=10` | Random questions. Does **not** include the correct answer. |
-| `GET`  | `/api/questions/categories` | List of available categories. |
+| `GET`  | `/api/meta` | Topic+difficulty combos (and category/difficulty lists) used to build the board. |
+| `GET`  | `/api/question?category=&difficulty=&exclude=1,2,3` | Draw one question for a cell, skipping used ids. Does **not** include the correct answer. Falls back to difficulty-only (then any) if a pool is exhausted. |
 | `POST` | `/api/questions/{id}/answer` | Check an answer. Body: `{ "selectedIndex": 0-3 }`. Response: `{ "correct": true/false, "correctIndex": 0-3 }`. |
+| `GET`  | `/api/questions/categories` | List of available categories. |
 
 > The correct answer is never sent to the client alongside the questions — validation
 > always happens server-side via the `POST .../answer` endpoint.
@@ -132,7 +135,8 @@ so no extra CORS configuration is needed during development.
 ### Example
 
 ```bash
-curl "http://localhost:8080/api/questions?count=1"
+curl "http://localhost:8080/api/meta"
+curl "http://localhost:8080/api/question?category=Sport&difficulty=könnyű"
 curl -X POST http://localhost:8080/api/questions/1/answer \
   -H "Content-Type: application/json" \
   -d '{"selectedIndex":1}'
@@ -183,9 +187,23 @@ delete `backend/guessthebest.db` and restart the backend.
 
 ## Gameplay
 
-Currently a simple quiz mode: 10 random questions, with instant feedback per answer
-(correct/incorrect highlighting) and a final score at the end.
+A hot-seat board game for **1–10 players** on one device.
 
-**Planned extension:** the full "millionaire" ladder (15 questions, prize tiers) and
-lifelines (50:50, ask the audience, phone a friend). The data model (category +
-difficulty) is already prepared for this.
+1. **Setup** — add players and name them.
+2. **The board** — a 5×5 grid (25 cards). Each card shows only a **topic** and a
+   **difficulty** (and its point value). The difficulty is colour-coded on the card's
+   top edge: green = könnyű, amber = közepes, red = nehéz.
+3. **A turn** — the current player picks any open card. A **confirmation** appears with
+   the topic, difficulty and points; on accept, the question is revealed (four options).
+4. **Scoring** — a correct answer awards points by difficulty (**könnyű 1, közepes 2,
+   nehéz 3**) and **checks** that card (it's claimed by the player, shown with their name).
+5. **Wrong answer** — the correct option is shown, then the card is **re-randomized**
+   with a brand-new topic & difficulty and stays open for someone to try later.
+6. **Turns rotate** after every question, regardless of the result.
+7. **Standings** — a ranking strip sits on top; a leaderboard beside the grid shows
+   each player's points, whose turn it is, and how many cards remain.
+8. **End** — after all **25 cards** are answered correctly, the final leaderboard is
+   shown with the winner, plus options to replay (same players) or start with new ones.
+
+The browser owns all game state (players, scores, turns, the board, and which question
+ids have been used); the backend just serves questions and verifies answers.
